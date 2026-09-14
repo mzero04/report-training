@@ -1,0 +1,6 @@
+{
+  "name": "Team Daily Report & Apps Script Automator",
+  "description": "Automate Google Sheets daily report generation, email notifications, and Apps Script workflow tailored for team training and operational logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
